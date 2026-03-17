@@ -1,0 +1,22 @@
+# Visual Studio / VS Code user files
+.vs/
+**/.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output
+bin/
+obj/
+**/bin/
+**/obj/
+
+# Local temporary folders in this workspace
+_build_check/
+_ef_debug2/
+tmp_sln_test/
+
+# OS files
+Thumbs.db
+.DS_Store
